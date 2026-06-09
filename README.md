@@ -135,7 +135,7 @@ This project was created to practice:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nodejs-animal-registry.git
+git clone https://github.com/GustavoPGCordeiro/nodejs-animal-registry.git
 ```
 
 Navigate to the project folder:
